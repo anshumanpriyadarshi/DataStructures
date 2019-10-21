@@ -53,5 +53,5 @@ int main(){
     insert(10);
     insert(6);
     display();
-
+    return 0;
 }
